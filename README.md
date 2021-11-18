@@ -1,3 +1,3 @@
-# LazyPredict
+# LazyPredict - A semi automated ML library
 
-https://www.youtube.com/watch?v=VUAQsotJcGk
+#### Video Link: https://www.youtube.com/watch?v=VUAQsotJcGk
